@@ -15,7 +15,7 @@ A simple console-based to-do list manager with SQLite integration. Keep track of
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/AdRohal/ToDoList.git
-    ```
+    ``` 
 
 2. **Navigate to the project directory:**
     ```bash
